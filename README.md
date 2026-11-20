@@ -1,4 +1,6 @@
-# ネットワーク演習シミュレータ（仮）
+# ネットワーク構築シミュレータ
+
+（旧称：ネットワーク演習シミュレータ）
 
 新人が L2／L3 を Cisco 風の CLI で設定して学ぶ、Windows 向け・Mac 向けのネットワーク演習ソフトです（開発：Mayudama Factory）。インストールは不要です。
 
@@ -10,6 +12,8 @@
 
 - Windows 版：[network-sim-windows.zip](https://github.com/mayudama-factory/network-sim-dist/releases/latest/download/network-sim-windows.zip)
 - Mac 版：[network-sim-macos.zip](https://github.com/mayudama-factory/network-sim-dist/releases/latest/download/network-sim-macos.zip)
+
+前の版から更新するときは、zip の中の `README.txt` の「前の版から更新するとき」を見てください。
 
 各版の内容・SHA256 は [Releases](https://github.com/mayudama-factory/network-sim-dist/releases) に載せています。
 
